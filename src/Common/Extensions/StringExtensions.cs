@@ -14,5 +14,20 @@ namespace Common.Extensions
         {
             return string.IsNullOrEmpty(s);
         }
+
+        public static bool EqualsIgnoreCase(this string? s, string? other)
+        {
+            if (s is null && other is null)
+            {
+                return true;
+            }
+
+            if ((s is null && other is not null) || (s is not null && other is null))
+            {
+                return false;
+            }
+
+            return s!.Equals(other, StringComparison.InvariantCultureIgnoreCase);
+        }
     }
 }
