@@ -1,4 +1,4 @@
-namespace Common.Core.Entities.Auditing
+namespace Common.Entities.Auditing
 {
     /// <summary>
     /// This interface is implemented by entities which must be audited.

@@ -1,4 +1,4 @@
-namespace Common.Core.Entities.Auditing
+namespace Common.Entities.Auditing
 {
     /// <summary>
     /// This interface is implemented by entities that is wanted to store creation information (who and when created).

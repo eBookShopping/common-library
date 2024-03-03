@@ -1,6 +1,6 @@
 using System.Reflection;
 
-namespace Common.Core.Entities
+namespace Common.Entities
 {
     /// <summary>
     /// A shortcut of <see cref="Entity{TPrimaryKey}"/> for most used primary key type (<see cref="int"/>).

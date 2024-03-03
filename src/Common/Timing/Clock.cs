@@ -1,4 +1,4 @@
-namespace Common.Core.Timing
+namespace Common.Timing
 {
     /// <summary>
     /// Used to perform some common date-time operations.

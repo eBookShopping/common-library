@@ -1,4 +1,4 @@
-namespace Common.Core.Extensions
+namespace Common.Extensions
 {
     /// <summary>
     /// Extension methods for strings.

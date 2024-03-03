@@ -1,4 +1,4 @@
-namespace Common.Core.Timing
+namespace Common.Timing
 {
     /// <summary>
     /// Implements <see cref="IClockProvider"/> to work with UTC times.

@@ -1,6 +1,6 @@
 using System.Runtime.Serialization;
 
-namespace Common.Core.Result
+namespace Common.Result
 {
     [Serializable]
     public record Result<T> : ISerializable

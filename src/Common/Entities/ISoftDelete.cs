@@ -1,4 +1,4 @@
-namespace Common.Core.Entities
+namespace Common.Entities
 {
     /// <summary>
     /// Used to standardize soft deleting entities.

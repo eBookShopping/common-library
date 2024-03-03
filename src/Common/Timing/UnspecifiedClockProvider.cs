@@ -1,4 +1,4 @@
-namespace Common.Core.Timing
+namespace Common.Timing
 {
     public class UnspecifiedClockProvider : IClockProvider
     {

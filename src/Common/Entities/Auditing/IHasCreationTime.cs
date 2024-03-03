@@ -1,4 +1,4 @@
-namespace Common.Core.Entities.Auditing
+namespace Common.Entities.Auditing
 {
     /// <summary>
     /// An entity can implement this interface if <see cref="CreationTime"/> of this entity must be stored.

@@ -1,7 +1,7 @@
-using Common.Core.Extensions;
-using Common.Core.Timing;
+using Common.Extensions;
+using Common.Timing;
 
-namespace Common.Core.Entities.Auditing
+namespace Common.Entities.Auditing
 {
     public static class EntityAuditingHelper
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Common.Core.Timing
+namespace Common.Timing
 {
     /// <summary>
     /// Implements <see cref="IClockProvider"/> to work with local times.
